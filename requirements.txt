@@ -1,5 +1,7 @@
-fastapi 
-uvicorn
-sqlalchemy
-passlib
-bcrypt
+fastapi     #main application
+uvicorn     #for running app
+sqlalchemy  #for Database connection
+passlib     #for hased password
+bcrypt      #for hased password
+python-jose #for JWT Token
+python-multipart    #for JWT Token
